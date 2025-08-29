@@ -47,7 +47,3 @@ The project compares and experiments with bot detection methodologies across Twi
 - Supervised models such as **Random Forest** and **Isolation Forest**.
 - Unsupervised approaches like **clustering**.
 - Dataset preparation pipelines and **semantic filtering techniques** for relevant post selection.
-
-
-## 📂 Structure
-
